@@ -8,7 +8,8 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.12"
+    "nuxt": "3.0.0-rc.12",
+    "@volar-plugins/vetur": "latest"
   },
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
