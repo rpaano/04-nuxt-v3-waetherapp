@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { numericLiteral } from '@babel/types';
-import { config } from 'process';
 
   const config = useRuntimeConfig()
 
